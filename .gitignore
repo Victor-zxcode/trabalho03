@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.py[cod]
+catalog.db
+.pytest_cache/
